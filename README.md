@@ -1,5 +1,6 @@
 ### Meu nome é Wagner  
 #### Gosto de matemática, computação e programação
+##### Redes aocias:
 [![Email](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:wagner.oliveira@tutamail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wagner-oliveiraptbr)
 
